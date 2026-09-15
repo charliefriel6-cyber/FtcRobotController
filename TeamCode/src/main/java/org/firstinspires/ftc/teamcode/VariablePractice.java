@@ -16,7 +16,10 @@ public class VariablePractice extends OpMode {
         double motorSpeed = 0.75;
         boolean clawClosed = true;
         String name = "Methodist College Belfast";
-        int motorAngle = 124
+        int motorAngle = 124';
+    '
+
+
        telemetry.addData("Team Number", teamNumber);
        telemetry.addData("Motor Speed", motorSpeed);
        telemetry.addData("Claw state", clawClosed);
