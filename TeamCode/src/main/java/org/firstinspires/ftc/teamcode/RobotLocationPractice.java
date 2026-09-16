@@ -53,7 +53,6 @@ public void turnRobot(double angleChange) {
     }
 
 
-
 void changey(double changeAmount) {
       y += changeAmount;
 }
